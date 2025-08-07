@@ -1,5 +1,10 @@
 # README
 
+## Bootstrap Template
+* Github: https://github.com/startbootstrap/startbootstrap-sb-admin-2
+* Live Preview: https://startbootstrap.com/previews/sb-admin-2
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
